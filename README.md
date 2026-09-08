@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Use Node.js 22 or newer and `npm ci` to install the locked dependencies.
+See [MAINTENANCE.md](MAINTENANCE.md) for dependency checks, remaining advisories,
+and the weekly update policy.
+
 ## Available Scripts
 
 In the project directory, you can run:
